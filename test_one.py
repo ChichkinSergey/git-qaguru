@@ -1,6 +1,6 @@
 import pytest
-def test_one():
+def test_1():
     assert 1 > 0
 
-def test_two():
+def test_2():
     assert 2 > 0
